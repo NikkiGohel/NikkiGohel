@@ -1,6 +1,6 @@
 # Hi 👋 I'm Nikki Gohel
 
-💻 Junior Web Developer | PHP & Laravel Developer  
+💻 Junior Web Developer | PHP & PYTHON Developer  
 📍 Ahmedabad, India  
 
 ---
